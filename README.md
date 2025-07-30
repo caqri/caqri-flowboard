@@ -47,11 +47,11 @@ Try it now: [FlowBoard Demo](https://taskflowapp.pages.dev/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FlowBoardTeam/FlowBoard.git
+   git clone https://github.com/caqri/caqri-flowboard.git
    ```
 2. Go to the project folder:
    ```bash
-   cd flowboard
+   cd caqri-flowboard
    ```
 3. Open `index.html` in your browser.
 
